@@ -238,7 +238,7 @@ function continueStatement(numero) {
   //Pista: usá el statement 'continue'
   // Tu código:
   newArray = []
-  for(i = 0; i < 10; i++){
+  for(i = 0; i < 10; i++ ){
     if(i == 5){
       continue
     }

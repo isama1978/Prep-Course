@@ -1,5 +1,24 @@
+body{
+    background-image: url(https://www.thegourmetjournal.com/wp-content/uploads/2018/01/Tendencias-gastronomicas-para-2018.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 h1{
     color: blueviolet;
+}
+
+h3{
+    text-align: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    
 }
 
 img{
